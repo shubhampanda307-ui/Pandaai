@@ -1,0 +1,9 @@
+{
+  "name": "Panda.Ai",
+  "description": "A modern, responsive chat application with a Panda-inspired minimalist design, featuring AI chat capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
